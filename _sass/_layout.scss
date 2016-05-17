@@ -254,13 +254,16 @@ margin: 5px;
  */
 .post-header {
     margin-bottom: $spacing-unit;
+	margin: 5px;
+    padding: 5px;
 }
 
 .post-title {
     font-size: 42px;
     letter-spacing: -1px;
     line-height: 1;
-
+margin: 5px;
+    padding: 5px;
     @include media-query($on-laptop) {
         font-size: 36px;
     }
