@@ -1,13 +1,7 @@
----
-layout: post
-title:  "test"
-date:   2016-05-22 13:03:33 +0800
-categories: taotuijian
----
-			
+		
 	<script type="text/javascript">
 
-	$("#kwd").bind("taphold", function(){ //ä¸æ”¯æŒiPhone/iTouch/iPad Safari
+	$("#kwd").bind("taphold", function(){ //²»Ö§³ÖiPhone/iTouch/iPad Safari
 	    var doc = document, 
 	    	text = doc.getElementById("kwd"),
 	    	range, 
@@ -23,7 +17,7 @@ categories: taotuijian
 	        selection.removeAllRanges();
 	        selection.addRange(range); 
 	    }else{
-	    	alert("æµè§ˆå™¨ä¸æ”¯æŒé•¿æŒ‰å¤åˆ¶åŠŸèƒ½");
+	    	alert("ä¯ÀÀÆ÷²»Ö§³Ö³¤°´¸´ÖÆ¹¦ÄÜ");
 	    }		
 	});
 
@@ -31,14 +25,14 @@ categories: taotuijian
 	
 	<div class=" para requirement">
 				<div class="tips tips-t">
-					1ã€å¿…é¡»é¦–æ¬¡ä¸‹è½½æ‰ç”Ÿæ•ˆ<br/>
-					2ã€ä¸èƒ½ä»æ’è¡Œæ¦œä¸‹è½½å“¦
+					1¡¢±ØĞëÊ×´ÎÏÂÔØ²ÅÉúĞ§<br/>
+					2¡¢²»ÄÜ´ÓÅÅĞĞ°ñÏÂÔØÅ¶
 				</div>
 				<div class="cparea">
-					<div class="kwd" id="kwd"><span>ä¸‰å›½è‰³ä¹‰æ‰‹æœºä¼˜åŒ–å¤§å¸ˆ123123123</span></div>					
+					<div class="kwd" id="kwd"><span>Èı¹úÑŞÒåÊÖ»úÓÅ»¯´óÊ¦123123123</span></div>					
 				</div>
 				<div class="cparea">
-					<span class="kdes"><b>â˜…</b>é•¿æŒ‰è™šçº¿æ¡†,æ‹·è´å…³é”®è¯</span>
+					<span class="kdes"><b>¡ï</b>³¤°´ĞéÏß¿ò,¿½±´¹Ø¼ü´Ê</span>
 				</div>
-				<a href="https://itunes.apple.com/cn/" data-role="button" class="downlink">å»AppStoreæœç´¢ä¸‹è½½</a>
+				<a href="https://itunes.apple.com/cn/" data-role="button" class="downlink">È¥AppStoreËÑË÷ÏÂÔØ</a>
 			</div>
