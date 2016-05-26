@@ -209,16 +209,4 @@ categories: taotuijian
 【NUK原装进口 婴儿安全梳子刷子 按摩头皮去胎癣 婴儿头刷+梳套装 价格：<span style="font-weight:bold;color:red">28.00</span>】<br><br><img style='width:300px;height:300px' src='http://img01.taobaocdn.com/bao/uploaded/i1/TB1fxm6LXXXXXXPXpXXXXXXXXXX_!!0-item_pic.jpg'/><br><br>淘口令：<span style="font-weight:bold;color:red">￥AAFMOBzP￥</span><hr style="height:1px;border:none;border-top:1px dashed #0066CC;margin-top:0.5em;margin-bottom:0.5em" />
 【家得宝 芯薄鲸吸 学步小裤裤 超薄型婴儿纸尿裤 XL码11片 价格：<span style="font-weight:bold;color:red">15.90</span>】<br><br><img style='width:300px;height:300px' src='http://img01.taobaocdn.com/bao/uploaded/i1/674467684/TB2zZOskVXXXXcCXXXXXXXXXXXX_!!674467684.jpg'/><br><br>淘口令：<span style="font-weight:bold;color:red">￥AAFMOGkc￥</span><hr style="height:1px;border:none;border-top:1px dashed #0066CC;margin-top:0.5em;margin-bottom:0.5em" /></div>
 
-<span>第<select id="st" onchange="tt(this.id)">
-  <option value="1">1</option>
-  <option value="2">2</option>
-  <option value="3">3</option>
-  <option value="4">4</option>
-  <option value="5">5</option>
-  <option value="6">6</option>
-  <option value="7">7</option>
-  <option value="8">8</option>
-  <option value="9">9</option>
-  <option value="10">10</option>
-</select>页</span>
 </div>

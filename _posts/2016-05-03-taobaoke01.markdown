@@ -210,17 +210,4 @@ categories: taotuijian
 【十月结晶防溢乳垫一次性溢奶垫孕妇乳贴母乳防漏贴不可洗100片送8 价格：<span style="font-weight:bold;color:red">25.80</span>】<br><br><img style='width:300px;height:300px' src='http://img01.taobaocdn.com/bao/uploaded/i1/39470785/TB2W_cVlVXXXXahXpXXXXXXXXXX_!!39470785.jpg'/><br><br>淘口令：<span style="font-weight:bold;color:red">￥AAFMNzgY￥</span><hr style="height:1px;border:none;border-top:1px dashed #0066CC;margin-top:0.5em;margin-bottom:0.5em" />
 【童泰儿童内裤女男童纯棉宝宝内裤1-3岁男童平角内裤2条装 价格：<span style="font-weight:bold;color:red">20.88</span>】<br><br><img style='width:300px;height:300px' src='http://image.taobao.com/bao/uploaded/i3/TB165bjLpXXXXbPXFXXYXGcGpXX_M2.SS2'/><br><br>淘口令：<span style="font-weight:bold;color:red">￥AAFMNrxp￥</span><hr style="height:1px;border:none;border-top:1px dashed #0066CC;margin-top:0.5em;margin-bottom:0.5em" />
 【立昕和谐号轨道电动汽车小火车托马斯儿童益智拼搭男孩玩具礼物 价格：<span style="font-weight:bold;color:red">74.00</span>】<br><br><img style='width:300px;height:300px' src='http://img04.taobaocdn.com/bao/uploaded/i4/TB1WzPqKpXXXXcQXVXXXXXXXXXX_!!0-item_pic.jpg'/><br><br>淘口令：<span style="font-weight:bold;color:red">￥AAFMNxDJ￥</span><hr style="height:1px;border:none;border-top:1px dashed #0066CC;margin-top:0.5em;margin-bottom:0.5em" /></div>
-
-<span>第<select id="st" onchange="tt(this.id)">
-  <option value="1">1</option>
-  <option value="2">2</option>
-  <option value="3">3</option>
-  <option value="4">4</option>
-  <option value="5">5</option>
-  <option value="6">6</option>
-  <option value="7">7</option>
-  <option value="8">8</option>
-  <option value="9">9</option>
-  <option value="10">10</option>
-</select>页</span>
 </div>

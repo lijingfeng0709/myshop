@@ -207,17 +207,4 @@ categories: taotuijian
 【包邮一拖三多功能数据线三合一usb通用3手机多用万能多头充电线器 价格：<span style="font-weight:bold;color:red">9.90</span>】<br><br><img style='width:300px;height:300px' src='http://img03.taobaocdn.com/bao/uploaded/i3/505414392/TB2iN1LkVXXXXb1XXXXXXXXXXXX_!!505414392.jpg'/><br><br>淘口令：<span style="font-weight:bold;color:red">￥AAFMNlfx￥</span><hr style="height:1px;border:none;border-top:1px dashed #0066CC;margin-top:0.5em;margin-bottom:0.5em" />
 【大号电蚊拍 多功能充电式LED灯家用三层超大苍蝇拍灭蚊器蚊子拍 价格：<span style="font-weight:bold;color:red">8.80</span>】<br><br><img style='width:300px;height:300px' src='http://img04.taobaocdn.com/bao/uploaded/i4/TB1rnkhIpXXXXbeXVXXXXXXXXXX_!!0-item_pic.jpg'/><br><br>淘口令：<span style="font-weight:bold;color:red">￥AAFMNdce￥</span><hr style="height:1px;border:none;border-top:1px dashed #0066CC;margin-top:0.5em;margin-bottom:0.5em" />
 【宝宝护肚围兜纯棉双层薄款秋冬加厚款纯棉不掉色肚兜 价格：<span style="font-weight:bold;color:red">7.90</span>】<br><br><img style='width:300px;height:300px' src='http://img01.taobaocdn.com/bao/uploaded/i1/TB1F8_FKXXXXXaGXVXXXXXXXXXX_!!0-item_pic.jpg'/><br><br>淘口令：<span style="font-weight:bold;color:red">￥AAFMNdcf￥</span><hr style="height:1px;border:none;border-top:1px dashed #0066CC;margin-top:0.5em;margin-bottom:0.5em" />
-
-<span>第<select id="st" onchange="tt(this.id)">
-  <option value="1">1</option>
-  <option value="2">2</option>
-  <option value="3">3</option>
-  <option value="4">4</option>
-  <option value="5">5</option>
-  <option value="6">6</option>
-  <option value="7">7</option>
-  <option value="8">8</option>
-  <option value="9">9</option>
-  <option value="10">10</option>
-</select>页</span>
 </div>

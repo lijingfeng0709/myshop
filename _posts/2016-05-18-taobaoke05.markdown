@@ -201,17 +201,4 @@ categories: taotuijian
 【买3送3透明肩带隐形肩带文胸带子防滑透明加宽隐形带调整型内衣 价格：<span style="font-weight:bold;color:red">3.50</span>】<br><br><img style='width:300px;height:300px' src='http://img04.taobaocdn.com/bao/uploaded/i4/TB1p_F9MpXXXXbhXpXXXXXXXXXX_!!0-item_pic.jpg'/><br><br>淘口令：<span style="font-weight:bold;color:red">￥AAFMNZUr￥</span><hr style="height:1px;border:none;border-top:1px dashed #0066CC;margin-top:0.5em;margin-bottom:0.5em" />
 【包邮正版做最好的自己妈妈不是我的佣人让我养成好习惯的故事适合8-9-10-12-14-15岁小学生读物教辅3-4-5-6年级课外阅读儿童励志书 价格：<span style="font-weight:bold;color:red">9.90</span>】<br><br><img style='width:300px;height:300px' src='http://img02.taobaocdn.com/bao/uploaded/i2/TB1BxTLJVXXXXaYXFXXXXXXXXXX_!!0-item_pic.jpg'/><br><br>淘口令：<span style="font-weight:bold;color:red">￥AAFMNFQQ￥</span><hr style="height:1px;border:none;border-top:1px dashed #0066CC;margin-top:0.5em;margin-bottom:0.5em" />
 【正品无烟艾条艾灸盒悬灸仪艾灸条南阳五年陈特高级蕲艾草批发包邮 价格：<span style="font-weight:bold;color:red">9.90</span>】<br><br><img style='width:300px;height:300px' src='http://img02.taobaocdn.com/bao/uploaded/i2/TB1.0vOIpXXXXb8XpXXXXXXXXXX_!!0-item_pic.jpg'/><br><br>淘口令：<span style="font-weight:bold;color:red">￥AAFMNEKO￥</span><hr style="height:1px;border:none;border-top:1px dashed #0066CC;margin-top:0.5em;margin-bottom:0.5em" />
-
-<span>第<select id="st" onchange="tt(this.id)">
-  <option value="1">1</option>
-  <option value="2">2</option>
-  <option value="3">3</option>
-  <option value="4">4</option>
-  <option value="5">5</option>
-  <option value="6">6</option>
-  <option value="7">7</option>
-  <option value="8">8</option>
-  <option value="9">9</option>
-  <option value="10">10</option>
-</select>页</span>
 </div>

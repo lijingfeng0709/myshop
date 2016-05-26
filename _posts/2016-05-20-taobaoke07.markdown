@@ -202,17 +202,4 @@ categories: taotuijian
 【1L浮花留香水沐浴露四季通用保湿补水家庭装划算大容量正品包邮 价格：<span style="font-weight:bold;color:red">9.90</span>】<br><br><img style='width:300px;height:300px' src='http://img03.taobaocdn.com/bao/uploaded/i3/TB1BlXKKpXXXXXjXXXXXXXXXXXX_!!0-item_pic.jpg'/><br><br>淘口令：<span style="font-weight:bold;color:red">￥AAFMNcBf￥</span><hr style="height:1px;border:none;border-top:1px dashed #0066CC;margin-top:0.5em;margin-bottom:0.5em" />
 【夏季男士背心后背网纱宽松透明印花修身型运动透气薄款弹力打底衫 价格：<span style="font-weight:bold;color:red">9.90</span>】<br><br><img style='width:300px;height:300px' src='http://img04.taobaocdn.com/bao/uploaded/i4/TB1.VtAKXXXXXXMXXXXXXXXXXXX_!!0-item_pic.jpg'/><br><br>淘口令：<span style="font-weight:bold;color:red">￥AAFMNIOd￥</span><hr style="height:1px;border:none;border-top:1px dashed #0066CC;margin-top:0.5em;margin-bottom:0.5em" />
 【夏季莫代尔防晒袖套子女骑车开车护胳膊手臂套袖遮阳薄长款手套 价格：<span style="font-weight:bold;color:red">9.90</span>】<br><br><img style='width:300px;height:300px' src='http://img01.taobaocdn.com/bao/uploaded/i1/1883430657/TB2dVG2lVXXXXXMXXXXXXXXXXXX_!!1883430657.jpg'/><br><br>淘口令：<span style="font-weight:bold;color:red">￥AAFMNHfB￥</span><hr style="height:1px;border:none;border-top:1px dashed #0066CC;margin-top:0.5em;margin-bottom:0.5em" />
-
-<span>第<select id="st" onchange="tt(this.id)">
-  <option value="1">1</option>
-  <option value="2">2</option>
-  <option value="3">3</option>
-  <option value="4">4</option>
-  <option value="5">5</option>
-  <option value="6">6</option>
-  <option value="7">7</option>
-  <option value="8">8</option>
-  <option value="9">9</option>
-  <option value="10">10</option>
-</select>页</span>
 </div>

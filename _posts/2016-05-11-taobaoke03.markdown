@@ -207,17 +207,4 @@ categories: taotuijian
 【帮宝适婴儿纸尿裤XL128片超薄干爽尿不湿加大号尿片男女宝宝通用 价格：<span style="font-weight:bold;color:red">209.00</span>】<br><br><img style='width:300px;height:300px' src='http://img03.taobaocdn.com/bao/uploaded/i3/544675524/TB2j8BtoFXXXXbfXpXXXXXXXXXX_!!544675524.jpg'/><br><br>淘口令：<span style="font-weight:bold;color:red">￥AAFMNivl￥</span><hr style="height:1px;border:none;border-top:1px dashed #0066CC;margin-top:0.5em;margin-bottom:0.5em" />
 【美国进口Biodermis百德丝剖腹产疤痕贴手术疤修复淡化增生疤硅胶 价格：<span style="font-weight:bold;color:red">98.00</span>】<br><br><img style='width:300px;height:300px' src='http://image.taobao.com/bao/uploaded/i3/TB1rUSkJFXXXXciXFXXYXGcGpXX_M2.SS2'/><br><br>淘口令：<span style="font-weight:bold;color:red">￥AAFMOJyB￥</span><hr style="height:1px;border:none;border-top:1px dashed #0066CC;margin-top:0.5em;margin-bottom:0.5em" />
 【可爱宝贝纸尿裤 夏季超极薄婴儿尿不湿L80 XL/LL/M/S任选  送10片 价格：<span style="font-weight:bold;color:red">72.00</span>】<br><br><img style='width:300px;height:300px' src='http://img01.taobaocdn.com/bao/uploaded/i1/TB1Oe2tJVXXXXclXFXXXXXXXXXX_!!0-item_pic.jpg'/><br><br>淘口令：<span style="font-weight:bold;color:red">￥AAFMNlGS￥</span><hr style="height:1px;border:none;border-top:1px dashed #0066CC;margin-top:0.5em;margin-bottom:0.5em" />
-
-<span>第<select id="st" onchange="tt(this.id)">
-  <option value="1">1</option>
-  <option value="2">2</option>
-  <option value="3">3</option>
-  <option value="4">4</option>
-  <option value="5">5</option>
-  <option value="6">6</option>
-  <option value="7">7</option>
-  <option value="8">8</option>
-  <option value="9">9</option>
-  <option value="10">10</option>
-</select>页</span>
 </div>

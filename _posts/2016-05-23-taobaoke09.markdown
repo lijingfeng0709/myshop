@@ -208,16 +208,4 @@ categories: taotuijian
 【电蚊拍充电式LED诱蚊灯多功能灭蚊拍三层超大网面电驱蚊器苍蝇拍 价格：<span style="font-weight:bold;color:red">8.80</span>】<br><br><img style='width:300px;height:300px' src='http://img02.taobaocdn.com/bao/uploaded/i2/TB1qVVOJFXXXXa6XpXXXXXXXXXX_!!0-item_pic.jpg'/><br><br>淘口令：<span style="font-weight:bold;color:red">￥AAFMNpOv￥</span><hr style="height:1px;border:none;border-top:1px dashed #0066CC;margin-top:0.5em;margin-bottom:0.5em" />
 【拉饵盘全磁强磁插地夜钓带灯多功能拉饵盘支架饵料盒钓箱配件包邮 价格：<span style="font-weight:bold;color:red">9.90</span>】<br><br><img style='width:300px;height:300px' src='http://img01.taobaocdn.com/bao/uploaded/i1/TB1sMykJFXXXXcHaXXXXXXXXXXX_!!0-item_pic.jpg'/><br><br>淘口令：<span style="font-weight:bold;color:red">￥AAFMNbTT￥</span><hr style="height:1px;border:none;border-top:1px dashed #0066CC;margin-top:0.5em;margin-bottom:0.5em" />
 
-<span>第<select id="st" onchange="tt(this.id)">
-  <option value="1">1</option>
-  <option value="2">2</option>
-  <option value="3">3</option>
-  <option value="4">4</option>
-  <option value="5">5</option>
-  <option value="6">6</option>
-  <option value="7">7</option>
-  <option value="8">8</option>
-  <option value="9">9</option>
-  <option value="10">10</option>
-</select>页</span>
 </div>

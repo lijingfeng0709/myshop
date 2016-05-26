@@ -209,17 +209,4 @@ categories: taotuijian
 【IRbaby婴儿推车便携儿童轻便简易伞车宝宝手推车超轻折叠夏季童车 价格：<span style="font-weight:bold;color:red">109.00</span>】<br><br><img style='width:300px;height:300px' src='http://img01.taobaocdn.com/bao/uploaded/i1/TB19iGdLVXXXXbVXFXXXXXXXXXX_!!0-item_pic.jpg'/><br><br>淘口令：<span style="font-weight:bold;color:red">￥AAFMNgNr￥</span><hr style="height:1px;border:none;border-top:1px dashed #0066CC;margin-top:0.5em;margin-bottom:0.5em" />
 【16年2月 新货 雀巢能恩3段婴幼儿宝宝牛奶粉400g克盒装 1-3岁适用 价格：<span style="font-weight:bold;color:red">55.00</span>】<br><br><img style='width:300px;height:300px' src='http://img03.taobaocdn.com/bao/uploaded/i3/768643427/TB2Sam0ipXXXXbbXpXXXXXXXXXX_!!768643427.jpg'/><br><br>淘口令：<span style="font-weight:bold;color:red">￥AAFMNjeR￥</span><hr style="height:1px;border:none;border-top:1px dashed #0066CC;margin-top:0.5em;margin-bottom:0.5em" />
 【日本进口贝亲婴儿驱蚊挂 宝宝天然植物防蚊虫叮咬驱蚊香座 90日 价格：<span style="font-weight:bold;color:red">37.00</span>】<br><br><img style='width:300px;height:300px' src='http://img04.taobaocdn.com/bao/uploaded/i4/TB1V0qQHpXXXXcTaXXXXXXXXXXX_!!0-item_pic.jpg'/><br><br>淘口令：<span style="font-weight:bold;color:red">￥AAFMNxGN￥</span><hr style="height:1px;border:none;border-top:1px dashed #0066CC;margin-top:0.5em;margin-bottom:0.5em" /></div>
-
-<span>第<select id="st" onchange="tt(this.id)">
-  <option value="1">1</option>
-  <option value="2">2</option>
-  <option value="3">3</option>
-  <option value="4">4</option>
-  <option value="5">5</option>
-  <option value="6">6</option>
-  <option value="7">7</option>
-  <option value="8">8</option>
-  <option value="9">9</option>
-  <option value="10">10</option>
-</select>页</span>
 </div>
